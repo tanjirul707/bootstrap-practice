@@ -1,11 +1,21 @@
-.red-text {
-    color: red;
+.carousel-item{
+    background-color: #777;
+    height: 32rem;
+position: relative;
+
 }
 
-.blue-text {
-    color: blue;
-}
+.container{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-bottom: 150px;
 
-.green-text {
-    color: green;
+
+
+
+
+
+
 }
