@@ -1,11 +1,10 @@
-.red-text {
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-.blue-text {
-    color: blue;
-}
+.centerized{
+    
+text-align: center;
 
-.green-text {
-    color: green;
 }
