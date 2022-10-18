@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-*{
-=======
-<<<<<<< HEAD
 * {
->>>>>>> 1d858efe3d4b81d6a09deb7db944b15f0d658ab0
     margin: 0;
     padding: 0;
 }
 
-<<<<<<< HEAD
-.centerized{
-    
-text-align: center;
 
-=======
+.centerized {
+    text-align: center;
+}
+
 .map-responsive {
     overflow: hidden;
     padding-bottom: 50%;
@@ -30,9 +24,11 @@ text-align: center;
 
 
 }
-body{
+
+body {
     font-family: 'Dancing Script', cursive;
 }
+
 .con {
     margin-top: 15px;
     padding-left: 15px;
@@ -44,35 +40,25 @@ body{
 }
 
 
-.clr{
+.clr {
     color: yellow;
 }
 
 
-.vid iframe{
+.vid iframe {
     margin-top: 8px;
     border: 4px solid red;
-=======
-.carousel-item{
-    background-color: #777;
-    height: 32rem;
-position: relative;
+    .carousel-item {
+        background-color: #777;
+        height: 32rem;
+        position: relative;
 
-}
+    }
 
-.container{
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding-bottom: 150px;
-
-
-
-
-
-
-
->>>>>>> b40e0870cfda094fd4d4e005db28b4146d854e7b
->>>>>>> 1d858efe3d4b81d6a09deb7db944b15f0d658ab0
-}
+    .container {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding-bottom: 150px;
+    }
